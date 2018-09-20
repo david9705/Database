@@ -7,7 +7,7 @@ http://people.cs.nctu.edu.tw/~hwpeng0521/login.php
 
 Login administrator account: <br/>
 Account: admin <br/>
-password: admin <br/>
+Password: admin <br/>
 
 <br/><br/>
 
